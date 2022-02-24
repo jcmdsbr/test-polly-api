@@ -14,7 +14,8 @@ If you liked the project, please give a star ;)
 
 The project contains 3 APIs:
 
-[GET] -> "/sleep" : returns status code 200 of 5 seconds, it is possible to customize by informing in the query string the parameter time "/sleep?time=10"
+[GET] -> "/sleep" : returns status code 200 of 5 seconds, 
+it is possible to customize by informing in the query string the parameter time "/sleep?time=10"
 
 [GET] -> "/fail" : returns status code 400
 
