@@ -12,7 +12,7 @@ If you liked the project, please give a star ;)
 
 ## Description :books:
 
-The project contains 3 APIs:
+The project is a minimal API in .net 6 and contains 3 paths:
 
 [GET] -> "/sleep" : returns status code 200 of 5 seconds, 
 it is possible to customize by informing in the query string the parameter time "/sleep?time=10"
